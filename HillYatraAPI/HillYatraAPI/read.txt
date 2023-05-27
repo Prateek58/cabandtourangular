@@ -1,0 +1,29 @@
+﻿ 
+ for ms sql
+  Install-Package Microsoft.EntityFrameworkCore.SqlServer
+
+  --
+
+
+ Install-Package Microsoft.EntityFrameworkCore.Tools
+ Install-Package Devart.Data.PostgreSql.EFCore
+
+
+ For Entity Framework Core 1.1, the command will be the following:
+Install-Package Devart.Data.PostgreSql.EFCore.Design
+
+
+
+
+Scaffold-DbContext "Server=DESKTOP-243QTTJ\SQLEXPRESS;Database=HillYatra;UID=sa;PWD=Sapient@123;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+Scaffold-DbContext -Connection "Server=DESKTOP-243QTTJ\SQLEXPRESS;Database=HillYatra;Integrated Security=True;Trusted_Connection=True;"  Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
+
+
+
+mysql
+ 
+
+Scaffold-DbContext "server=140.238.163.175;port=3306;user=boyotrav_admin;password=HillYat@#135;database=boyotravDB_test" MySql.Data.EntityFrameworkCore -OutputDir Models -f
+

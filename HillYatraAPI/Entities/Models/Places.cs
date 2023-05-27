@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+
+// Code scaffolded by EF Core assumes nullable reference types (NRTs) are not used or disabled.
+// If you have enabled NRTs for your project, then un-comment the following line:
+// #nullable disable
+
+namespace HillYatraAPI.Models
+{
+    public partial class Places
+    {
+        public Places()
+        {
+            SheduleFromPlaceNavigation = new HashSet<Shedule>();
+            SheduleToPlaceNavigation = new HashSet<Shedule>();
+        }
+
+        public int Id { get; set; }
+        public string Place { get; set; }
+        public int Type { get; set; }
+        public DateTime? CreatedOn { get; set; }
+        public DateTime? UpdatedOn { get; set; }
+
+        public virtual LkpType TypeNavigation { get; set; }
+        public virtual ICollection<Shedule> SheduleFromPlaceNavigation { get; set; }
+        public virtual ICollection<Shedule> SheduleToPlaceNavigation { get; set; }
+    }
+}

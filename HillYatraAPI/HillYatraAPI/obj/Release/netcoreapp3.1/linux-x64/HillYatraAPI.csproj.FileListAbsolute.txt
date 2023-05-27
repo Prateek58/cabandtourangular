@@ -1,0 +1,844 @@
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\nlog.config
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\appsettings.Development.json
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\appsettings.json
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\app.yaml
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.deps.json
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.runtimeconfig.json
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.pdb
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\BouncyCastle.Crypto.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Devart.Data.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Devart.Data.PostgreSql.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Devart.Data.PostgreSql.Entity.EFCore.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Google.Protobuf.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.Streams.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\K4os.Hash.xxHash.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Bcl.HashCode.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Data.Sqlite.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MySql.Data.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Ubiety.Dns.Core.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Zstandard.Net.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MySql.Data.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MySqlConnector.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\NLog.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\NuGet.Frameworks.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Pomelo.JsonObject.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.nativelibrary.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.core.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Renci.SshNet.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SshNet.Security.Cryptography.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.AttributedModel.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.Convention.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.Hosting.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.Runtime.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.TypedParts.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Diagnostics.PerformanceCounter.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.DirectoryServices.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Text.Json.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Xml.XPath.XmlDocument.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\libe_sqlite3.so
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Contracts.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Entities.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\LoggerService.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Repository.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\LoggerService.pdb
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Repository.pdb
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Contracts.pdb
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Entities.pdb
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\HillYatraAPI.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\HillYatraAPI.StaticWebAssets.xml
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\scopedcss\bundle\HillYatraAPI.styles.css
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.csproj.CopyComplete
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.pdb
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.genruntimeconfig.cache
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\nlog.config
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\appsettings.Development.json
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\appsettings.json
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\app.yaml
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.deps.json
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.runtimeconfig.json
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.runtimeconfig.dev.json
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Devart.Data.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Devart.Data.PostgreSql.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Devart.Data.PostgreSql.Entity.EFCore.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Google.Protobuf.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.Streams.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\K4os.Hash.xxHash.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MailKit.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Bcl.HashCode.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Data.Sqlite.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MimeKit.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MySql.Data.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Ubiety.Dns.Core.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Zstandard.Net.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MySql.Data.EntityFrameworkCore.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MySqlConnector.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Newtonsoft.Json.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\NLog.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\NuGet.Frameworks.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Pomelo.JsonObject.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\BouncyCastle.Crypto.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.nativelibrary.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.core.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Renci.SshNet.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SshNet.Security.Cryptography.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Collections.Immutable.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.AttributedModel.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.Convention.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.Hosting.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.Runtime.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.TypedParts.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Diagnostics.PerformanceCounter.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.DirectoryServices.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Runtime.Caching.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Text.Json.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Xml.XPath.XmlDocument.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\libe_sqlite3.so
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Contracts.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Entities.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\LoggerService.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Repository.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\LoggerService.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Repository.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Contracts.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Entities.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.AssemblyInfo.cs
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\HillYatraAPI.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\HillYatraAPI.StaticWebAssets.xml
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\scopedcss\bundle\HillYatraAPI.styles.css
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.csproj.CopyComplete
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.genruntimeconfig.cache
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\nlog.config
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\appsettings.Development.json
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\appsettings.json
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\app.yaml
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.deps.json
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.runtimeconfig.json
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.runtimeconfig.dev.json
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.pdb
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Devart.Data.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Devart.Data.PostgreSql.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Devart.Data.PostgreSql.Entity.EFCore.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Google.Protobuf.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.Streams.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\K4os.Hash.xxHash.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MailKit.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Bcl.HashCode.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Data.Sqlite.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MimeKit.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MySql.Data.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Ubiety.Dns.Core.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Zstandard.Net.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MySql.Data.EntityFrameworkCore.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MySqlConnector.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Newtonsoft.Json.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\NLog.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\NuGet.Frameworks.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Pomelo.JsonObject.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\BouncyCastle.Crypto.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.nativelibrary.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.core.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Renci.SshNet.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SshNet.Security.Cryptography.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Collections.Immutable.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.AttributedModel.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.Convention.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.Hosting.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.Runtime.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.TypedParts.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Diagnostics.PerformanceCounter.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.DirectoryServices.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Runtime.Caching.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Text.Json.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Xml.XPath.XmlDocument.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\libe_sqlite3.so
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Contracts.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Entities.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\LoggerService.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Repository.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\LoggerService.pdb
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Repository.pdb
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Contracts.pdb
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Entities.pdb
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.AssemblyInfo.cs
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\HillYatraAPI.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\HillYatraAPI.StaticWebAssets.xml
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\scopedcss\bundle\HillYatraAPI.styles.css
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.csproj.CopyComplete
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.pdb
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.genruntimeconfig.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\TimeZoneConverter.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\nlog.config
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\appsettings.Development.json
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\appsettings.json
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\app.yaml
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.deps.json
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.runtimeconfig.json
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.runtimeconfig.dev.json
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.pdb
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Devart.Data.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Devart.Data.PostgreSql.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Devart.Data.PostgreSql.Entity.EFCore.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Google.Protobuf.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.Streams.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\K4os.Hash.xxHash.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MailKit.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Bcl.HashCode.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Data.Sqlite.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MimeKit.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MySql.Data.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Ubiety.Dns.Core.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Zstandard.Net.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MySql.Data.EntityFrameworkCore.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MySqlConnector.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Newtonsoft.Json.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\NLog.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\NuGet.Frameworks.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Pomelo.JsonObject.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\BouncyCastle.Crypto.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.nativelibrary.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.core.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Renci.SshNet.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SshNet.Security.Cryptography.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Collections.Immutable.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.AttributedModel.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.Convention.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.Hosting.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.Runtime.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.TypedParts.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Diagnostics.PerformanceCounter.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.DirectoryServices.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Runtime.Caching.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Text.Json.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Xml.XPath.XmlDocument.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\TimeZoneConverter.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\libe_sqlite3.so
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Contracts.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Entities.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\LoggerService.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Repository.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\LoggerService.pdb
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Repository.pdb
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Contracts.pdb
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Entities.pdb
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.AssemblyInfo.cs
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\HillYatraAPI.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\HillYatraAPI.StaticWebAssets.xml
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\scopedcss\bundle\HillYatraAPI.styles.css
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.csproj.CopyComplete
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.pdb
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.genruntimeconfig.cache
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\nlog.config
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\appsettings.Development.json
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\web.config
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\appsettings.json
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.StaticWebAssets.xml
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\app.yaml
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.deps.json
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.runtimeconfig.json
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.runtimeconfig.dev.json
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\HillYatraAPI.pdb
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Devart.Data.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Devart.Data.PostgreSql.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Devart.Data.PostgreSql.Entity.EFCore.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Google.Protobuf.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\K4os.Compression.LZ4.Streams.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\K4os.Hash.xxHash.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MailKit.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Bcl.HashCode.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Data.SqlClient.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Data.Sqlite.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Logging.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Options.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.Identity.Client.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\dotnet-aspnet-codegenerator-design.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MimeKit.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MySql.Data.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Ubiety.Dns.Core.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Zstandard.Net.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MySql.Data.EntityFrameworkCore.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\MySqlConnector.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Newtonsoft.Json.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\NLog.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\NuGet.Frameworks.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Pomelo.JsonObject.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\BouncyCastle.Crypto.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.nativelibrary.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.core.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Renci.SshNet.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\SshNet.Security.Cryptography.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Collections.Immutable.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.AttributedModel.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.Convention.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.Hosting.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.Runtime.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Composition.TypedParts.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Diagnostics.PerformanceCounter.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.DirectoryServices.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Runtime.Caching.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Text.Json.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\System.Xml.XPath.XmlDocument.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\TimeZoneConverter.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\libe_sqlite3.so
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Contracts.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Entities.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\LoggerService.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Repository.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\LoggerService.pdb
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Repository.pdb
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Contracts.pdb
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\bin\Release\netcoreapp3.1\linux-x64\Entities.pdb
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.csproj.AssemblyReference.cache
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.AssemblyInfoInputs.cache
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.AssemblyInfo.cs
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.csproj.CoreCompileInputs.cache
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\HillYatraAPI.StaticWebAssets.Manifest.cache
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\HillYatraAPI.StaticWebAssets.Pack.cache
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\msbuild.HillYatraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\msbuild.build.HillYatraAPI.props
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\msbuild.buildMultiTargeting.HillYatraAPI.props
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\staticwebassets\msbuild.buildTransitive.HillYatraAPI.props
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.RazorTargetAssemblyInfo.cache
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.csproj.CopyComplete
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.pdb
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\obj\Release\netcoreapp3.1\linux-x64\HillYatraAPI.genruntimeconfig.cache

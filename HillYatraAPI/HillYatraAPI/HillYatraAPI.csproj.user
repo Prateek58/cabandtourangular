@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Controller_SelectedScaffolderID>ApiControllerEmptyScaffolder</Controller_SelectedScaffolderID>
+    <Controller_SelectedScaffolderCategoryPath>root/Common/Api</Controller_SelectedScaffolderCategoryPath>
+    <WebStackScaffolding_ControllerDialogWidth>600</WebStackScaffolding_ControllerDialogWidth>
+    <WebStackScaffolding_IsLayoutPageSelected>True</WebStackScaffolding_IsLayoutPageSelected>
+    <WebStackScaffolding_IsPartialViewSelected>False</WebStackScaffolding_IsPartialViewSelected>
+    <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
+    <WebStackScaffolding_LayoutPageFile />
+    <WebStackScaffolding_DbContextTypeFullName>HillYatraAPI.Models.RepositoryContext</WebStackScaffolding_DbContextTypeFullName>
+    <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
+    <ShowAllFiles>true</ShowAllFiles>
+    <NameOfLastUsedPublishProfile>C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\HillYatraAPI\Properties\PublishProfiles\FTPProfile.pubxml</NameOfLastUsedPublishProfile>
+    <GoogleCloudPublishChoice>Gae</GoogleCloudPublishChoice>
+    <GoogleAppEnginePublishPromote>True</GoogleAppEnginePublishPromote>
+    <GoogleAppEnginePublishOpenWebsite>True</GoogleAppEnginePublishOpenWebsite>
+    <GoogleCloudPublishConfiguration>Release</GoogleCloudPublishConfiguration>
+    <GoogleKubernetesEnginePublishDeploymentName>hill-yatra-api</GoogleKubernetesEnginePublishDeploymentName>
+    <GoogleKubernetesEnginePublishVersion>20200820t160203</GoogleKubernetesEnginePublishVersion>
+    <GoogleKubernetesEnginePublishReplicas>3</GoogleKubernetesEnginePublishReplicas>
+    <GoogleKubernetesEnginePublishExposeService>False</GoogleKubernetesEnginePublishExposeService>
+    <GoogleKubernetesEnginePublishExposePublicService>False</GoogleKubernetesEnginePublishExposePublicService>
+    <GoogleKubernetesEnginePublishOpenWebsite>False</GoogleKubernetesEnginePublishOpenWebsite>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

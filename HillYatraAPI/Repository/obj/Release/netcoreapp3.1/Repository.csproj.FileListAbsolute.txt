@@ -1,0 +1,83 @@
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.deps.json
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.pdb
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Contracts.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Contracts.pdb
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.deps.json
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.runtimeconfig.json
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.runtimeconfig.dev.json
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Contracts.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Contracts.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.genruntimeconfig.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.deps.json
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.runtimeconfig.json
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.runtimeconfig.dev.json
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.pdb
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Contracts.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Contracts.pdb
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.pdb
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.genruntimeconfig.cache
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.deps.json
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.runtimeconfig.json
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.runtimeconfig.dev.json
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.pdb
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Contracts.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Contracts.pdb
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.pdb
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.genruntimeconfig.cache
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.deps.json
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.runtimeconfig.json
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.runtimeconfig.dev.json
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Repository.pdb
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Contracts.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Contracts.pdb
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.pdb
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\Repository\obj\Release\netcoreapp3.1\Repository.genruntimeconfig.cache

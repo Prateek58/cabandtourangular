@@ -1,0 +1,84 @@
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\lenovo\Desktop\HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.runtimeconfig.json
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.runtimeconfig.dev.json
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\lenovo\Documents\projects\HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.genruntimeconfig.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.runtimeconfig.json
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.runtimeconfig.dev.json
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\lenovo\Documents\projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.genruntimeconfig.cache
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.runtimeconfig.json
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.runtimeconfig.dev.json
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.genruntimeconfig.cache
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\A Projects\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.runtimeconfig.json
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.runtimeconfig.dev.json
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\prate\JC-Prateek-35cc\project\Repo_HillYatra\HillYatraAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.genruntimeconfig.cache
